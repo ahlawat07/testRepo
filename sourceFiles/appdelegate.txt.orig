@@ -4,8 +4,12 @@ drwxr-xr-x  2 yogesh.kumar1  583837406  64 Jun 14 15:43 sourceFiles
 
 Some work is added by master repo by creator
 
+<<<<<<< HEAD
 master one completed one test.
+=======
+
 version 1 changes done in the fork.
 
 version 1 bug 1 bug fixed.
 
+>>>>>>> d5dc6fef1ef62fd0a1b438f38d93695e4d2677d5
