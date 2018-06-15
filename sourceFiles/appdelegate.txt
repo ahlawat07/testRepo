@@ -9,3 +9,5 @@ version 1 changes done in the fork.
 
 version 1 bug 1 bug fixed.
 
+version 1 bug 2 fixed.
+
